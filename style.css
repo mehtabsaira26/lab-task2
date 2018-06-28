@@ -1,0 +1,76 @@
+section{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    -webkit-box-shadow: 0px 1px 5px 0px rgba(117,108,117,1);
+    -moz-box-shadow: 0px 1px 5px 0px rgba(117,108,117,1);
+    box-shadow: 0px 1px 5px 0px rgba(117,108,117,1);
+    text-align: left;
+    width: 409px;
+    border: 1px solid #d8d874;
+    display: inline-block;
+    padding: 9px;
+    margin: 8px ;
+    margin-left: 0px;
+}
+hr{
+    color: #d8d874;
+}
+.one{
+    background:  linear-gradient(to right, #00cb93, #008add );
+    height: 38px;
+    width:427px;
+    color: white;
+    text-align: center;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    padding-top: 17px;
+    margin-top: -9px;
+    margin-left: -9px;
+}
+ button{
+    background-color:#b3d9ff;
+    color: #0040ff;
+    border: 0px;
+    padding: 6px;
+}
+#c2 {
+ color: #00b364;
+ font-size: bold;
+}
+.two , .three,.c1 {
+    font-size: bold;
+    color: #0069d2;
+}
+p{
+    color: #808080;
+    font-family: 'Fjalla One', sans-serif;
+}
+.f22{
+    color: white;
+    background-color: #0069d2;
+    border: 0px;
+    padding: 8px;
+}
+nav,#f55{
+    color: #e3b400;
+   
+}
+
+
+
+.profile-pic:hover .edit {
+	display: block;
+}
+
+.edit {
+	margin-top:-34px;
+	margin-left:350px;
+	right: 0;
+	top: 0;
+	display: none;
+}
+
+.edit a {
+	color: #000;
+}
